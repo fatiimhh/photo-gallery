@@ -1,0 +1,9 @@
+.photoCard {
+  border-radius: 4px;
+  width: 80px;
+  height: 80px;
+}
+
+.photoCard:hover {
+  box-shadow: 0 4px 12px rgba(14, 115, 155, 0.5);
+}
